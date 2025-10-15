@@ -22,15 +22,8 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-introduction-to-pytorch-for-machine-learning
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGM57qo8MaAsQ/learning-public-crop_675_1200/B4EZnE26nyJ0AY-/0/1759944354943?e=2147483647&v=beta&t=6Gon_PksM4AZpJXmCMprUC3cFMbFn47i6HwIOvmxVGQ
