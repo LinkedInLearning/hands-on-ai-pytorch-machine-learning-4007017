@@ -7,6 +7,12 @@ This is the repository for the LinkedIn Learning course `Hands-On AI: PyTorch Ma
 
 <p>Many of the world’s most exciting and innovative new tech projects leverage the power of machine learning. But if you want to set yourself apart as a data scientist or machine learning engineer, you need to stay up to date with the current tools and best practices for creating effective, predictable models. In this course, instructor Helen Sun shows you how to use Jupyter Notebook to get up and running with PyTorch, the open-source machine learning framework known for its simplicity, performance, and APIs. Explore the basic concepts of PyTorch, including tensors, operators, and conversion to and from NumPy, as well as how to utilize autograd, which tracks the history of every computation recorded by the framework. By the end of this course, you’ll also be equipped with a new set of skills to get the most out of TorchVision, TorchAudio, and TorchText.</p>
 
+## Instructor
+
+Helen Sun
+
+Technology Strategist and Thought Leader
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
